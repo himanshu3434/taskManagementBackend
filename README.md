@@ -15,7 +15,7 @@ Welcome to **Tasker** where you can manage your task very easily
 
 ## Links
 
-- [Frontend Hosted](https://tasker-virid.vercel.app/login)
+- [Frontend Hosted](https://tasker-virid.vercel.app)
 - [Backend Hosted](https://taskmanagementbackend-aqxs.onrender.com/)
 - [Frontend GitHub Repository](https://github.com/himanshu3434/taskManagement)
 - [Backend GitHub Repository](https://github.com/himanshu3434/taskManagementBackend)
